@@ -12,7 +12,7 @@ Tenho experiência em:
 <li>Kubernetes(k8s) e Docker.</li>
 <li>RestFul Api, Nginex, Apache.</li>
 <li>RabbitMQ, ActiveMQ, Kafka, SQS e JMS.</li>
-<li>Swagger(openApi),StopLight.</li>
+<li>Swagger, OpenApi, StopLight.</li>
 <li>OAuth, JWT, SAML, IAM, KeyCloak e HATEOAS.</li>
 <li>Apigee, Spring Cloud Gateway e Zuul.</li>
 <li>Sonarqube, Fortify, Snyk e Datadog.</li>
